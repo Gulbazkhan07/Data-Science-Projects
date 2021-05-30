@@ -38,6 +38,34 @@ We dispose of 11 continuous variables related to financial and performance indic
 * Product Type	Type of ice cream and beverages sold
 * Product	: Product sub-category
 
+# Data Analysis
+
+<img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Business%20insights%20of%20RockinRobin/images/geoprahical.png'>
+
+The Beverage are the best seller product of Rockin Robin creamery. The product is present in east, west and central US. The Cup & Cones are the best seller in the US south
+
+
+<img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Business%20insights%20of%20RockinRobin/images/sales.png'>
+
+The financial indicators are following a slighlty decreasing trend with important seasonality linked the effect of months on quarters and also persons habits and preferences.
+
+
+<img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Business%20insights%20of%20RockinRobin/images/top3.png'>
+The Ultimate Sundae is the best seller product in all US country. The Top 3 products change from state to another depending on the customer needs and geographic location
+
+<img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Business%20insights%20of%20RockinRobin/images/boxplot.png'>
+
+The Boxplot, dhow that the dessert are sunday have high variance meaning that their values fluctuates strongly depending on the day, month and seasons
+
+<img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Business%20insights%20of%20RockinRobin/images/dashboard.png'>
+
+The Rockin Robin dataset contains many referential data that could be used as interactive component of the dashboards:
+
+* The State filter is an important component that would be used to make a zoom or focus on a specific US state.
+* The Financial indicators are also displayed as interactive component in order to make the dashboard show the zoom based on the each chosen financial indicator.
+* 	We could also add interactive components linked to the product, the product type and the area code to make the dashboard more interactive.
+
+
 
 
 
