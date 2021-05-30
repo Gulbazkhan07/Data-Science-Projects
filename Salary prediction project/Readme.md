@@ -22,27 +22,27 @@ Features:
 
 # Feature Summary
 # jobType
-<img src='Salary prediction project/salary_by_jobType.png'>
+<img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Salary%20prediction%20project/Images/salary_by_jobType.png'>
 Higher level jobs have high average salary.
 
 # Degree
-<img src='Salary prediction project/salary_by_degree.png'>
+<img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Salary%20prediction%20project/Images/salary_by_degree.png'>
 The educational background is directly propotion to the average salary.
 
 # Major
-<img src='Salary prediction project/salary_by_major.png'>
+<img src="https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Salary%20prediction%20project/Images/salary_by_major.png">
 More technical majors tend to have higher average salary.
 
 # Industry
-<img src='Salary prediction project/salary_by_industry.png'>
+<img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Salary%20prediction%20project/Images/salary_by_industry.png'>
 Industries like oil and finance have higher average salary, which makes sense since these industries are known to pay well even at an entry level position.
 
 # Salary
-<img src='Salary prediction project/salary_distribution.png'>
+<img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Salary%20prediction%20project/Images/salary_distribution.png'>
 Salary is approximately normally distributed. Basically all but a few salary are under 200k/year.
 
 # Feature correlation
-<img src='Salary prediction project/correlation_matrix_heatmap.png'>
+<img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Salary%20prediction%20project/Images/correlation_matrix_heatmap.png'>
 Job type, degree, major, industry, and years of experience all have positive correlation with salary. Distance from the metropolis has negative correlation with salary. Degree, major and job type have relatively strong positive correlation with each other.
 
 # Training Models
@@ -53,12 +53,12 @@ Three models are Tested:
 * Grandient Boosting ---> MSE=361.4
 
 The best model with lowest mean square error is the Gradient Boosting Regressor.
-<img src='Salary prediction project/model_evaluations.png'>
+<img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Salary%20prediction%20project/Images/model_evaluations.png'>
 
 
 # Solution
 The predicted salaries for job postings based on the Gradient Boosting model on the training set:
-<img src='Salary prediction project/predicted_solution.png'>
+<img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Salary%20prediction%20project/Images/predicted_solution.png'>
 
 
 
