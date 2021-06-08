@@ -28,17 +28,24 @@ From the image,we can observe the image pixel values ranging from 0 to 255 & hen
 Target tester (10,) and Shape of input tester (784,). To fit the model,we need to flatten the images.
 
 # Task 3 Construct an input pipeline
+
 <img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Image%20recognition%20using%20deep%20forward%20neural%20network/4.png'>
 
 
 
 
 # Task 4 Construct a deep forward neural network
+
 # Task 4.1 Setting up a model for training
+
 <img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Image%20recognition%20using%20deep%20forward%20neural%20network/Images/5.png'>
+
 # Task 4.2 Fitting the model
+
 <img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Image%20recognition%20using%20deep%20forward%20neural%20network/6.png'>
+
 # Task 4.3 Check the convergence through gradient
+
 <img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Image%20recognition%20using%20deep%20forward%20neural%20network/7.png'>
 
 # Task 5 Fine-tuning the model
