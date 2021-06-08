@@ -16,6 +16,7 @@ There are  60000 training img and  10000 test images.
 The size for each train image (28, 28)
 The size for each test image (28, 28)
 
+
 <img src='https://github.com/Gulbazkhan07/Data-Science-Projects/blob/main/Image%20recognition%20using%20deep%20forward%20neural%20network/2.png'>
 
 From the image,we can observe the image pixel values ranging from 0 to 255 & hence we need to rescale the input so input range lies between 0 to 1,upon rescaling this image & dividing each pixel by 255.
